@@ -1,4 +1,4 @@
-# PortfolioPilot — Milestone 02: Scaffold the monorepo and shared contracts
+# Milestone 02: Scaffold the monorepo and shared contracts
 
 PortfolioPilot is a teaching project for a stock portfolio manager. The planned application will eventually include portfolios, market news, and an AI assistant. This activity builds its **foundation**: the folder structure, development servers, shared HTTP contracts, configuration boundaries, and build commands. It does not yet implement portfolio management or AI features.
 
